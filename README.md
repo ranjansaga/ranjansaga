@@ -7,11 +7,14 @@ I build scalable, enterprise-grade web platforms. My core focus centers on clean
 
 ### 🛠️ Core Tech Stack & Toolkit
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend & Languages** | ![React](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Next.js](https://shields.io) |
-| **Architecture & Styling** | ![Webpack](https://shields.io) ![Tailwind CSS](https://shields.io) ![Styled Components](https://shields.io) |
-| **Data & Observability** | ![Elasticsearch](https://shields.io) ![Kibana](https://shields.io) |
+*   **Frontend & Languages**  
+    `🧱 React` &nbsp;&bull;&nbsp; `🔷 TypeScript` &nbsp;&bull;&nbsp; `🟨 JavaScript` &nbsp;&bull;&nbsp; `▲ Next.js`
+
+*   **Architecture & Styling**  
+    `📦 Webpack Module Federation` &nbsp;&bull;&nbsp; `🎨 Tailwind CSS` &nbsp;&bull;&nbsp; `💅 Styled Components`
+
+*   **Data & Observability**  
+    `🔍 Elasticsearch` &nbsp;&bull;&nbsp; `📊 Kibana`
 
 ---
 
